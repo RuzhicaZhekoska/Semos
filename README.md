@@ -1,1 +1,5 @@
 # Semos
+
+## WordPress Git 
+
+### Ruzhica
