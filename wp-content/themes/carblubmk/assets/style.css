@@ -1,0 +1,22 @@
+.c-card {
+  background-color: #000;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.c-headline {
+  text-align: center;
+  color:#538;
+}
+
+.c-card_inner {
+  background-color: #fff;
+  height: 300px;
+}
+.c-card_card {
+  color: #fff;
+}/*# sourceMappingURL=style.css.map */

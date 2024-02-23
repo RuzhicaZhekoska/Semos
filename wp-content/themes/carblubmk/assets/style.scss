@@ -1,0 +1,24 @@
+
+.c-card{
+    background-color: #000;
+}
+
+.container{
+    max-width: 1200px;
+    width:100%;
+    margin:0 auto;
+}
+.c-headline{
+    text-align: center;
+
+}
+
+.c-card{
+    &_inner{
+        background-color:#fff;
+        height: 300px;
+    }
+    &_card{
+        color:#fff;
+    }
+}
